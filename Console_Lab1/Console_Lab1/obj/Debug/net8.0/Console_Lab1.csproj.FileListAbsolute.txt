@@ -1,0 +1,14 @@
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\bin\Debug\net8.0\Console_Lab1.exe
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\bin\Debug\net8.0\Console_Lab1.deps.json
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\bin\Debug\net8.0\Console_Lab1.runtimeconfig.json
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\bin\Debug\net8.0\Console_Lab1.dll
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\bin\Debug\net8.0\Console_Lab1.pdb
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\obj\Debug\net8.0\Console_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\obj\Debug\net8.0\Console_Lab1.AssemblyInfoInputs.cache
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\obj\Debug\net8.0\Console_Lab1.AssemblyInfo.cs
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\obj\Debug\net8.0\Console_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\obj\Debug\net8.0\Console_Lab1.dll
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\obj\Debug\net8.0\refint\Console_Lab1.dll
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\obj\Debug\net8.0\Console_Lab1.pdb
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\obj\Debug\net8.0\Console_Lab1.genruntimeconfig.cache
+C:\Users\Дмитро\Desktop\ІПЗ-12\ООП\Console_Lab1\Console_Lab1\obj\Debug\net8.0\ref\Console_Lab1.dll
